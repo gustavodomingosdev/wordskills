@@ -1,0 +1,1 @@
+curl https://updates.sunnyvalley.io/getzenarmor | sh
